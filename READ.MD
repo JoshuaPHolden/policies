@@ -3,9 +3,7 @@ Last updated January 11, 2026
 This Privacy Notice for __________ ("we," "us," or "our"), describes how and why we might access, collect, store,
 use, and/or share ("process") your personal information when you use our services ("Services"), including when
 you:
-Visit our website at https://radiance-therapy.org/ or any website of ours that links to this Privacy Notice
-Download and use our mobile application(Radiance Therapy), or any other application of ours that links to this
-Privacy Notice
+
 Engage with us in other related ways, including any marketing or events
 Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We
 are responsible for making decisions about how your personal information is processed. If you do not agree with our
@@ -28,10 +26,7 @@ your information for other purposes with your consent. We process your informati
 reason to do so. Learn more about how we process your information.
 In what situations and with which parties do we share personal information? We may share information in
 specific situations and with specific third parties. Learn more about when and with whom we share your personal
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy
-1/13
-1/11/26, 12:33 PM
-Termly
+
 information.
 How do we keep your information safe? We have adequate organizational and technical processes and
 procedures in place to protect your personal information. However, no electronic transmission over the internet or
@@ -59,15 +54,12 @@ TABLE OF CONTENTS
 12. DO WE MAKE UPDATES TO THIS NOTICE?
 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+
 1. WHAT INFORMATION DO WE COLLECT?
 Personal information you disclose to us
 In Short: We collect personal information that you provide to us.
 We collect personal information that you voluntarily provide to us when you register on the Services, express an
 interest in obtaining information about us or our products and Services, when you participate in activities on the
-2/13
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy
-1/11/26, 12:33 PM
-Termly
 Services, or otherwise when you contact us.
 Personal Information Provided by You. The personal information that we collect depends on the context of your
 interactions with us and the Services, the choices you make, and the products and features you use. The personal
@@ -100,10 +92,7 @@ changes to such personal information.
 Information automatically collected
 In Short: Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics
 — is collected automatically when you visit our Services.
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy
-3/13
-1/11/26, 12:33 PM
-Termly
+
 We automatically collect certain information when you visit, use, or navigate the Services. This information does not
 reveal your specific identity (like your name or contact information) but may include device and usage information,
 such as your IP address, browser and device characteristics, operating system, language preferences, referring
@@ -138,10 +127,6 @@ security and fraud prevention, and to comply with law. We process the personal i
 purposes listed below. We may also process your information for other purposes only with your prior explicit consent.
 We process your personal information for a variety of reasons, depending on how you interact with our
 Services, including:
-4/13
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy
-1/11/26, 12:33 PM
-Termly
 To facilitate account creation and authentication and otherwise manage user accounts. We may
 process your information so you can create and log in to your account, as well as keep your account in
 working order.
@@ -174,10 +159,6 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 without your consent, including, for example:
 If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
 For investigations and fraud detection and prevention
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy
-5/13
-1/11/26, 12:33 PM
-Termly
 For business transactions provided certain conditions are met
 If it is contained in a witness statement and the collection is necessary to assess, process, or settle an
 insurance claim
@@ -207,10 +188,6 @@ certain information about you.
 Our Services offer you the ability to register and log in using your third-party social media account details (like your
 Facebook or X logins). Where you choose to do this, we will receive certain profile information about you from your
 social media provider. The profile information we receive may vary depending on the social media provider
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy
-6/13
-1/11/26, 12:33 PM
-Termly
 concerned, but will often include your name, email address, friends list, and profile picture, as well as other
 information you choose to make public on such a social media platform.
 We will use the information we receive only for the purposes that are described in this Privacy Notice or that are
@@ -242,10 +219,6 @@ processing until deletion is possible.
 8. HOW DO WE KEEP YOUR INFORMATION SAFE?
 In Short: We aim to protect your personal information through a system of organizational and technical security
 measures.
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy
-7/13
-1/11/26, 12:33 PM
-Termly
 We have implemented appropriate and reasonable technical and organizational security measures designed to
 protect the security of any personal information we process. However, despite our safeguards and efforts to secure
 your information, no electronic transmission over the Internet or information storage technology can be guaranteed to
@@ -253,6 +226,7 @@ be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, 
 will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we
 will do our best to protect your personal information, transmission of personal information to and from our Services is
 at your own risk. You should only access the Services within a secure environment.
+
 9. WHAT ARE YOUR PRIVACY RIGHTS?
 In Short: Depending on your state of residence in the US or in some regions, such as the European Economic Area
 (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control
@@ -277,17 +251,11 @@ section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when
 applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful
 processing grounds other than consent.
-Account Information
-If you would at any time like to review or change the information in your account or terminate your account,
-you can:
-Log in to your account settings and update your user account.
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy
-8/13
-1/11/26, 12:33 PM
-Termly
+
 Upon your request to terminate your account, we will deactivate or delete your account and information from our
 active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems,
 assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
+
 10. CONTROLS FOR DO-NOT-TRACK FEATURES
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT")
 feature or setting you can activate to signal your privacy preference not to have data about your online browsing
@@ -298,6 +266,7 @@ adopted that we must follow in the future, we will inform you about that practic
 Notice.
 California law requires us to let you know how we respond to web browser DNT signals. Because there currently is
 not an industry or legal standard for recognizing or honoring DNT signals, we do not respond to them at this time.
+
 11. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 In Short: If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky,
 Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas,
@@ -309,6 +278,7 @@ Categories of Personal Information We Collect
 The table below shows the categories of personal information we have collected in the past twelve (12) months. The
 table includes illustrative examples of each category and does not reflect the personal information we collect from
 you. For a comprehensive inventory of all personal information we process, please refer to the section "WHAT
+
 INFORMATION DO WE COLLECT?"
 Category
 A. Identifiers
@@ -329,7 +299,7 @@ Name, contact information,
 education, employment, employment
 history, and financial information
 NO
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy
+
 9/13
 C. Protected
 classification
@@ -388,10 +358,7 @@ Information NO
 We may also collect other personal information outside of these categories through instances where you interact with
 us in person, online, or by phone or mail in the context of:
 Receiving help through our customer support channels;
-1/11/26, 12:33 PM Termly
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy 10/13
-1/11/26, 12:33 PM
-Termly
+
 Participation in customer surveys or contests; and
 Facilitation in the delivery of our Services and to respond to your inquiries.
 We will use and retain the collected personal information as needed to provide the Services or for:
@@ -420,10 +387,6 @@ Right to correct inaccuracies in your personal data
 Right to request the deletion of your personal data
 Right to obtain a copy of the personal data you previously shared with us
 Right to non-discrimination for exercising your rights
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy
-11/13
-1/11/26, 12:33 PM
-Termly
 Right to opt out of the processing of your personal data if it is used for targeted advertising (or sharing
 as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of
 decisions that produce legal or similarly significant effects ("profiling")
@@ -456,10 +419,6 @@ maintained by us, we may request that you provide additional information for the
 and for security or fraud-prevention purposes.
 If you submit the request through an authorized agent, we may need to collect additional information to verify your
 identity before processing your request and the agent will need to provide a written and signed permission from you
-https://app.termly.io/dashboard/website/4631c35e-0d69-41a8-9481-40b91a451d7f/privacy-policy
-12/13
-1/11/26, 12:33 PM
-Termly
 to submit such request on your behalf.
 Appeals
 Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our
